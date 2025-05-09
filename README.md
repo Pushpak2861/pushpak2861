@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pushpaksum@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1-1R4mFcFcRA9fJ00-XZApnQH_MeJ2qkE/view?usp=drive_link](https://drive.google.com/file/d/1-1R4mFcFcRA9fJ00-XZApnQH_MeJ2qkE/view?usp=drive_link)](https://drive.google.com/file/d/1HFeKGOC0EjD51QUDA89qbhDxlzNV9w9A/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1-1R4mFcFcRA9fJ00-XZApnQH_MeJ2qkE/view?usp=drive_link]](https://drive.google.com/file/d/1HFeKGOC0EjD51QUDA89qbhDxlzNV9w9A/view?usp=sharing)
 
 - ⚡ Fun fact **Time doesn't wait**
 
