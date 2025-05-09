@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pushpak Raj Senthil Kumaran</h1>
-<h3 align="center">AI/ML Enthusiast</h3>
+<h3 align="center">Data Engineering & AI/ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpak2861&label=Profile%20views&color=0e75b6&style=flat" alt="pushpak2861" /> </p>
 
-- 🔭 I’m currently working on **Artificial Intelligence and Machine Learning**
+- 🔭 I’m currently working on **Data Engineering & AI/ML**
 
 - 🌱 I’m currently learning **Computer Vision**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 🤝 I’m looking for help with **AI/ML Jobs**
+- 🤝 I’m looking for help with **Data Engineering Jobs**
 
 - 👨‍💻 All of my projects are available at [https://pushpak2861.github.io/portfoli0/](https://pushpak2861.github.io/portfoli0/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pushpaksum@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-1R4mFcFcRA9fJ00-XZApnQH_MeJ2qkE/view?usp=drive_link](https://drive.google.com/file/d/1-1R4mFcFcRA9fJ00-XZApnQH_MeJ2qkE/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1-1R4mFcFcRA9fJ00-XZApnQH_MeJ2qkE/view?usp=drive_link](https://drive.google.com/file/d/1-1R4mFcFcRA9fJ00-XZApnQH_MeJ2qkE/view?usp=drive_link)](https://drive.google.com/file/d/1HFeKGOC0EjD51QUDA89qbhDxlzNV9w9A/view?usp=sharing)
 
 - ⚡ Fun fact **Time doesn't wait**
 
