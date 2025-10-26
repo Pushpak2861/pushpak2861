@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Data Engineering Jobs**
 
-- 👨‍💻 All of my projects are available at [Pushpak_portfolio.com]([https://pushpak2861.github.io/portfoli0/](https://pushpakraj28.vercel.app/))
+- 👨‍💻 All of my projects are available at [[https://pushpak2861.github.io/portfoli0/](https://pushpakraj28.vercel.app/]]([https://pushpak2861.github.io/portfoli0/](https://pushpakraj28.vercel.app/))
 
 - 💬 Ask me about **Python , Pytorch , Numpy , Pandas , Data visualisation**
 
